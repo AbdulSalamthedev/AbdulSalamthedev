@@ -196,7 +196,7 @@ class AbdulIslam extends Developer {
 ## 🧩 Fun Facts
 
 - 🔥 Every line I write has a purpose — **no bloat, no shortcuts**
-- 🐘 PHP has been my weapon of choice for **4+ years**
+- 🐘 PHP has been my weapon of choice for **8+ years**
 - 🔌 30+ custom WordPress plugins shipped with full documentation
 - 🛒 Deep expertise in WooCommerce — from custom payment gateways to complex shipping logic
 - 📚 Continuous learner — always leveling up
